@@ -1,0 +1,12 @@
+{
+  "name": "docker-frontend",
+  "version": "1.0.0",
+  "description": "Node.js Express frontend for Docker assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
